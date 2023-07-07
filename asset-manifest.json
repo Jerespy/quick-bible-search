@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/quick-bible-search/static/css/main.90e8c6e8.css",
+    "main.js": "/quick-bible-search/static/js/main.a6241460.js",
+    "index.html": "/quick-bible-search/index.html",
+    "static/media/search.svg": "/quick-bible-search/static/media/search.b6b36ac1ab6a477b5f4db711f39b750d.svg",
+    "main.90e8c6e8.css.map": "/quick-bible-search/static/css/main.90e8c6e8.css.map",
+    "main.a6241460.js.map": "/quick-bible-search/static/js/main.a6241460.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90e8c6e8.css",
+    "static/js/main.a6241460.js"
+  ]
+}
