@@ -2,8 +2,6 @@ import { useState, useEffect } from "react";
 import './App.css'
 import SearchIcon from "./search.svg"
 
-import MovieCard from "./MovieCard";
-
 
 const BIBLE_API_URL = "https://bible-api.com";
 
